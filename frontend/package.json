@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Frnt-End.github.io/Update-Reactjs-in-GitHub-Pages",
+  "homepage": "https://github.com/balachandarpb/support-desk-app/blob/main/frontend",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
